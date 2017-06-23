@@ -1,0 +1,27 @@
+{
+  "name": "gulp-extract-media-query",
+  "version": "1.0.0",
+  "description": "Gulp plugin which extracts matched media queries to the separate file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyraul/gulp-extract-media-query.git"
+  },
+  "keywords": [
+    "media",
+    "query",
+    "extract",
+    "gulp"
+  ],
+  "author": "Nikita Tarasov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyraul/gulp-extract-media-query/issues"
+  },
+  "homepage": "https://github.com/luckyraul/gulp-extract-media-query#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "postcss": "^6.0.3"
+  }
+}

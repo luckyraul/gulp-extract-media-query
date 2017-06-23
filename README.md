@@ -1,2 +1,2 @@
 # gulp-extract-media-query
-Gulp plugin to extract media queries to a separate file via postcss
+Gulp plugin which extracts media queries to a separate file
